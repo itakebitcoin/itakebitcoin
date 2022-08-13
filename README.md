@@ -1,4 +1,4 @@
-GaLLo#4444 on discord
+GaLLo#5549 on discord
 Former Owner 1/2 of Sin City RP
 I mainly focus on the following languages: HTML and LUA.
 <!---
