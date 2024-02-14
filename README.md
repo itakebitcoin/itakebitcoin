@@ -1,1 +1,1 @@
-GaLLo#1006 on discord
+itakebitcoin on discord
