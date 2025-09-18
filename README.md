@@ -1,26 +1,25 @@
 # 👋 Hey there, I'm ITAKEBITCOIN
 
 💻 **Scripter & Developer**  
-I enjoy building automation tools, bot scripts, and creating gameplay systems. Most of my work revolves around Lua and scripting in different environments.
+I enjoy building automation tools, bot scripts, and gameplay systems. I also love digging through code to **find bugs and optimize scripts**.
 
 ---
 
 ### 🔹 What I Work With
 ![Lua](https://img.shields.io/badge/Code-Lua-blue?logo=lua)
-![FiveM](https://img.shields.io/badge/Framework-FiveM-orange)
-![Roblox](https://img.shields.io/badge/Game-Roblox-red?logo=roblox)
 ![Discord Bots](https://img.shields.io/badge/Discord-Bots-5865F2?logo=discord&logoColor=white)
+![FiveM](https://img.shields.io/badge/Game%20Systems-FiveM%20%26%20Roblox-orange)
 
-- 🟢 **Lua** – FiveM server development & Roblox scripting  
-- 🤖 **Discord.js / Python** – Bots, automation, and utilities  
-- ⚡ Always exploring ways to make scripts more efficient & automated
+- 🤖 **Automated systems & Discord bots** – building tools that save time and enhance communities  
+- 🛠️ **Debugging & optimization** – finding bugs, patching scripts, and improving performance  
+- 🎮 **Game systems** – scripting for **FiveM** and **Roblox** using Lua  
 
 ---
 
 ### 🔹 Current Focus
-- 🚓 Developing custom **FiveM** scripts (server-side & client-side)  
-- 🎮 Experimenting with **Roblox Lua** for gameplay systems  
-- 🤝 Building **Discord bots** for communities and automation  
+- ⚡ Creating smarter **automation scripts**  
+- 🤝 Developing **Discord bots** with useful utilities  
+- 🚓 Experimenting with Lua in **FiveM** & **Roblox**  
 
 ---
 
@@ -30,6 +29,6 @@ I enjoy building automation tools, bot scripts, and creating gameplay systems. M
 ---
 
 ### 🔹 Fun Stuff
-- 🚀 Love tinkering with APIs & automation  
-- 🛠️ Enjoy turning small ideas into full systems  
-- 🎨 Always learning and experimenting with scripting environments
+- 🚀 Always experimenting with automation ideas  
+- 🛠️ Turning small concepts into full systems  
+- 🐛 Love the challenge of tracking down and fixing tricky bugs
